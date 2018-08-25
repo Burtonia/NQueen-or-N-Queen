@@ -1,3 +1,9 @@
+/**
+ * Created By: Rativardhan Singh Sengar
+ * email: rativardhan@gmail.com
+ *
+ */
+
 // variables and parameter:
 var totalQueen = 8; // Modify this parameter for N queen
 
